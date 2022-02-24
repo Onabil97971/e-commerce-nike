@@ -177,14 +177,3 @@ nav{
     height: 50px;
   }
 
-  .featureTitle {
-    font-size: 20px;
-    font-weight: 600;
-    margin: 20px;
-  }
-
-  .featureDesc {
-    color: grey;
-    width: 50%;
-    height: 100px;
-  }
