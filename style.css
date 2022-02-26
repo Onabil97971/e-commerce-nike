@@ -443,6 +443,9 @@ footer{
 }
 
 @media screen and (max-width:480px) {
+  html {
+    scroll-behavior: smooth;
+  }
   nav{
     padding: 20px;
   }
